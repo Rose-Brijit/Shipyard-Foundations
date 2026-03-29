@@ -1,0 +1,1 @@
+print("Hello, Shipyard! Your Docker container is running successfully.")
