@@ -1,4 +1,13 @@
-# CI/CD Assignment Submission
+### CI/CD Assignment Submission
 
-Name: Rose-Brijit
-muid: rosebrijitabey-1@mulearn
+- Name: Rose-Brijit
+- muid: rosebrijitabey-1@mulearn
+
+#### 🔗 Repository Link
+https://github.com/Rose-Brijit/Shipyard-Foundations
+
+#### 🌐 Live Website
+https://rose-brijit.github.io/Shipyard-Foundations/
+
+#### ✅ Git Actions Link
+https://github.com/Rose-Brijit/Shipyard-Foundations/actions
